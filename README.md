@@ -61,7 +61,7 @@
 
 # Featured Data Analytics Projects
 
-1.Adidas Sales Dashboard – Power BI
+1.Adidas Sales Dashboard – Power BI ; Blinkit business dashboard-Power BI
 Shows dashboarding, business analysis, and KPI tracking.
 
 2.Flipkart Pricing & Positioning Analysis – Python
