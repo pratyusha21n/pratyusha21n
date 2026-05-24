@@ -82,21 +82,3 @@
 </p>
 
 ---
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratyusha21n/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-## 🐍 Contribution Graph – Snake
-
-<!--
-Follow a guide to set up the workflow that generates this SVG in your repo.
-Once done, this image link will show an animated snake on your contributions.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratyusha21n/pratyusha21n/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
