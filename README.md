@@ -59,26 +59,13 @@
 
 ---
 
-## 📊 GitHub Stats
+# Featured Data Analytics Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyusha21n&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+1.Adidas Sales Dashboard – Power BI
+Shows dashboarding, business analysis, and KPI tracking.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyusha21n&theme=tokyonight" alt="GitHub Streak" />
-</p>
+2.Flipkart Pricing & Positioning Analysis – Python
+Shows Python, cleaning, EDA, visualization, and business insight.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyusha21n&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyusha21n&theme=tokyonight&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
-</p>
-
----
+3.Employee Management System Analysis – SQL
+Shows SQL depth, database design, joins, CTEs, and window functions.
